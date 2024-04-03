@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nfeProc xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+    <NFe xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infNFe Id="NFe43231002276695000164550010001905751020184266" versao="4.00">
+            <ide>
+                <cUF>43</cUF>
+                <cNF>02018426</cNF>
+                <natOp>5.101-VENDA PRODUCAO ESTABELECIMENTO</natOp>
+                <mod>55</mod>
+                <serie>1</serie>
+                <nNF>190575</nNF>
+                <dhEmi>2023-10-19T15:55:00-03:00</dhEmi>
+                <tpNF>1</tpNF>
+                <idDest>1</idDest>
+                <cMunFG>4313409</cMunFG>
+                <tpImp>1</tpImp>
+                <tpEmis>1</tpEmis>
+                <cDV>6</cDV>
+                <tpAmb>1</tpAmb>
+                <finNFe>1</finNFe>
+                <indFinal>0</indFinal>
+                <indPres>0</indPres>
+                <procEmi>0</procEmi>
+                <verProc>Rech 22.20k b1336</verProc>
+            </ide>
+            <emit>
+                <CNPJ>02276695000164</CNPJ>
+                <xNome>BEL AIR PNEUMATICA LTDA</xNome>
+                <xFant>BEL AIR</xFant>
+                <enderEmit>
+                    <xLgr>RUA ITAPETININGA, 28</xLgr>
+                    <nro>S/N</nro>
+                    <xBairro>LIBERDADE</xBairro>
+                    <cMun>4313409</cMun>
+                    <xMun>NOVO HAMBURGO</xMun>
+                    <UF>RS</UF>
+                    <CEP>93330080</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                    <fone>5135875164</fone>
+                </enderEmit>
+                <IE>0860285634</IE>
+                <CRT>3</CRT>
+            </emit>
+            <dest>
+                <CNPJ>09563494000197</CNPJ>
+                <xNome>MAKSCHUH MAQ E EQUIP LTDA</xNome>
+                <enderDest>
+                    <xLgr>RUA DO CEDRO</xLgr>
+                    <nro>194</nro>
+                    <xBairro>IDEAL</xBairro>
+                    <cMun>4313409</cMun>
+                    <xMun>NOVO HAMBURGO</xMun>
+                    <UF>RS</UF>
+                    <CEP>93332080</CEP>
+                    <cPais>1058</cPais>
+                    <xPais>BRASIL</xPais>
+                    <fone>5135829585</fone>
+                </enderDest>
+                <indIEDest>1</indIEDest>
+                <IE>0860411362</IE>
+                <email>aloisio@makschuh.com.br</email>
+            </dest>
+            <autXML>
+                <CPF>62848330082</CPF>
+            </autXML>
+            <det nItem="1">
+                <prod>
+                    <cProd>530188</cProd>
+                    <cEAN>SEM GTIN</cEAN>
+                    <xProd>KIT REP CIL MNI-ISO 025 KMI0251</xProd>
+                    <NCM>84129080</NCM>
+                    <cBenef>RS052158</cBenef>
+                    <CFOP>5101</CFOP>
+                    <uCom>PC</uCom>
+                    <qCom>2.000</qCom>
+                    <vUnCom>33.0000</vUnCom>
+                    <vProd>66.00</vProd>
+                    <cEANTrib>SEM GTIN</cEANTrib>
+                    <uTrib>PC</uTrib>
+                    <qTrib>2.000</qTrib>
+                    <vUnTrib>33.0000</vUnTrib>
+                    <indTot>1</indTot>
+                </prod>
+                <imposto>
+                    <ICMS>
+                        <ICMS51>
+                            <orig>0</orig>
+                            <CST>51</CST>
+                            <modBC>3</modBC>
+                            <vBC>66.00</vBC>
+                            <pICMS>17.0000</pICMS>
+                            <vICMSOp>11.22</vICMSOp>
+                            <pDif>29.4110</pDif>
+                            <vICMSDif>3.30</vICMSDif>
+                            <vICMS>7.92</vICMS>
+                        </ICMS51>
+                    </ICMS>
+                    <IPI>
+                        <cEnq>999</cEnq>
+                        <IPINT>
+                            <CST>53</CST>
+                        </IPINT>
+                    </IPI>
+                    <PIS>
+                        <PISAliq>
+                            <CST>01</CST>
+                            <vBC>58.08</vBC>
+                            <pPIS>0.6500</pPIS>
+                            <vPIS>0.38</vPIS>
+                        </PISAliq>
+                    </PIS>
+                    <COFINS>
+                        <COFINSAliq>
+                            <CST>01</CST>
+                            <vBC>58.08</vBC>
+                            <pCOFINS>3.0000</pCOFINS>
+                            <vCOFINS>1.74</vCOFINS>
+                        </COFINSAliq>
+                    </COFINS>
+                </imposto>
+            </det>
+            <total>
+                <ICMSTot>
+                    <vBC>66.00</vBC>
+                    <vICMS>7.92</vICMS>
+                    <vICMSDeson>0.00</vICMSDeson>
+                    <vFCP>0.00</vFCP>
+                    <vBCST>0.00</vBCST>
+                    <vST>0.00</vST>
+                    <vFCPST>0.00</vFCPST>
+                    <vFCPSTRet>0.00</vFCPSTRet>
+                    <vProd>66.00</vProd>
+                    <vFrete>0.00</vFrete>
+                    <vSeg>0.00</vSeg>
+                    <vDesc>0.00</vDesc>
+                    <vII>0.00</vII>
+                    <vIPI>0.00</vIPI>
+                    <vIPIDevol>0.00</vIPIDevol>
+                    <vPIS>0.38</vPIS>
+                    <vCOFINS>1.74</vCOFINS>
+                    <vOutro>0.00</vOutro>
+                    <vNF>66.00</vNF>
+                </ICMSTot>
+            </total>
+            <transp>
+                <modFrete>1</modFrete>
+                <transporta>
+                    <CNPJ>02276695000164</CNPJ>
+                    <xNome>O PROPRIO</xNome>
+                    <IE>0860285634</IE>
+                    <xEnder>RUA ITAPETININGA, 28</xEnder>
+                    <xMun>NOVO HAMBURGO</xMun>
+                    <UF>RS</UF>
+                </transporta>
+                <vol>
+                    <qVol>1</qVol>
+                    <esp>EMB.GERAL</esp>
+                    <marca>BEL AIR</marca>
+                    <pesoL>2.000</pesoL>
+                    <pesoB>2.000</pesoB>
+                </vol>
+            </transp>
+            <cobr>
+                <fat>
+                    <nFat>000190575</nFat>
+                    <vOrig>66.00</vOrig>
+                    <vDesc>0.00</vDesc>
+                    <vLiq>66.00</vLiq>
+                </fat>
+                <dup>
+                    <nDup>001</nDup>
+                    <dVenc>2023-10-30</dVenc>
+                    <vDup>66.00</vDup>
+                </dup>
+            </cobr>
+            <pag>
+                <detPag>
+                    <indPag>1</indPag>
+                    <tPag>15</tPag>
+                    <vPag>66.00</vPag>
+                </detPag>
+            </pag>
+            <infAdic>
+                <infAdFisco>NAO INCIDENCIA DO ICMS-ST NOS TERMOS DO PROTOCOLO 49/2008. TRATA-SE DE
+                    MERCADORIA NAO UTILIZADA NO SETOR AUTOMOTIVO. Dif.Parcial do valor da operacao
+                    conforme Livro III, Art. 1o-K do decreto 37.699/97 Perc.Diferido: 29,41100 Valor
+                    Diferido: R$ 19,41 ICMS Diferido: R$ 3,30</infAdFisco>
+                <infCpl>Local cobranca: 36 BRAD Representante: 47 ANDERSON Pedido: 6104081
+                    Cod.cliente: 5.850</infCpl>
+                <obsCont xCampo="Emitido pelo">
+                    <xTexto>ERP SIGER</xTexto>
+                </obsCont>
+                <obsCont xCampo="Rech Informatica">
+                    <xTexto>51 3582.4001 - www.rech.com.br</xTexto>
+                </obsCont>
+                <obsCont xCampo="CODNOT">
+                    <xTexto>6104081</xTexto>
+                </obsCont>
+                <obsCont xCampo="FATPEN">
+                    <xTexto>000190575;1;000;2;</xTexto>
+                </obsCont>
+                <obsCont xCampo="Fones">
+                    <xTexto>Fone/Fax: (51)3587.5164</xTexto>
+                </obsCont>
+                <obsCont xCampo="GY-EEM">
+                    <xTexto>belair@belair.ind.br</xTexto>
+                </obsCont>
+            </infAdic>
+            <infRespTec>
+                <CNPJ>93419380000184</CNPJ>
+                <xContato>Cleber Fabiano Sesterheim</xContato>
+                <email>controladoria@rech.com.br</email>
+                <fone>5135824001</fone>
+            </infRespTec>
+        </infNFe>
+        <Signature xmlns="http://www.w3.org/2000/09/xmldsig#">
+            <SignedInfo>
+                <CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                <SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" />
+                <Reference URI="#NFe43231002276695000164550010001905751020184266">
+                    <Transforms>
+                        <Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" />
+                        <Transform Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315" />
+                    </Transforms>
+                    <DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+                    <DigestValue>hid0akkWXHWgUILxOrkQBhLZtQk=</DigestValue>
+                </Reference>
+            </SignedInfo>
+            <SignatureValue>
+                V7CCtDOlKeFCG4t85b0t9TKprDFyYkJltgwEMu0JYpA0Xi0r5uWp1rHUbxstCzzCiey7sRqHTD1r&#xd;KYKeXuLYYDI1mNn/0nOHz3Bgj6HFnzSlLq+gEvb2RPAGtI23QuFuGRl3rxiklUhQ1nR5zsTBpIOL&#xd;RNpdg9qutcAwTw3XlJZm3tVMyKA1xoYSB/o27wjsDRk9lXxCzJCY8EUUEkOvrQrEAWAf7XMZRiSH&#xd;huv88NZiBUV0MDOKtq5WKdfAqzJGIBG5e7d9WtTcuzH1HR++dIfFGXQk7mEHloiDTqGyTeGsUgoX&#xd;pf2LAckCPam+S2w+lvRNxtXOwbjHGbB4Sn9r9w==</SignatureValue>
+            <KeyInfo>
+                <X509Data>
+                    <X509Certificate>
+                        MIIH9zCCBd+gAwIBAgIIbESblKwSMHowDQYJKoZIhvcNAQELBQAwdDELMAkGA1UEBhMCQlIxEzAR&#xd;BgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3JldGFyaWEgZGEgUmVjZWl0YSBGZWRlcmFs&#xd;IGRvIEJyYXNpbCAtIFJGQjEYMBYGA1UEAxMPQUMgVkFMSUQgUkZCIHY1MB4XDTIzMDcxNzAxNTYx&#xd;N1oXDTI0MDcxNjAxNTYxN1owggEbMQswCQYDVQQGEwJCUjELMAkGA1UECBMCUlMxFjAUBgNVBAcT&#xd;DU5PVk8gSEFNQlVSR08xEzARBgNVBAoTCklDUC1CcmFzaWwxNjA0BgNVBAsTLVNlY3JldGFyaWEg&#xd;ZGEgUmVjZWl0YSBGZWRlcmFsIGRvIEJyYXNpbCAtIFJGQjEWMBQGA1UECxMNUkZCIGUtQ05QSiBB&#xd;MTEdMBsGA1UECxMUQVIgQ0NTIENFUlRJRklDQURPUkExGTAXBgNVBAsTEFZpZGVvY29uZmVyZW5j&#xd;aWExFzAVBgNVBAsTDjIzODY0MzMxMDAwMTc1MS8wLQYDVQQDEyZCRUwgQUlSIFBORVVNQVRJQ0Eg&#xd;TFREQTowMjI3NjY5NTAwMDE2NDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAJSlElsx&#xd;SzEUQ54snlyfir9v6jDlvxq26UgN1VTYgqkP2ByCPz1ZL9u6xJbkSvqAm9wcB+IE5eLqljJQwsk0&#xd;mTPm28QKvHHKuyey/zNSF4haTddjfiDnKLN3DMIUXCVJo9Sm7BbN28MXwyKkFTcQCdwxmNaxCjPn&#xd;8vV6mJPG5eNYq/lfu0VVtrKhzB76S4jK5ZGIsvbxhmbfTpbTrM5xfVa8uYIBTfnYRdFo7V+JFo9u&#xd;HZFt85ZPGUSfHyGyEq5hImmHVQ+UuILwqhU+q2US5yZJTYqpDNLeA1T88jr4mFj8vXW++9heKVrN&#xd;Q+DpBo+9JVHWVY7/4eyw8N/6cgBJ8XUCAwEAAaOCAuIwggLeMIGcBggrBgEFBQcBAQSBjzCBjDBV&#xd;BggrBgEFBQcwAoZJaHR0cDovL2ljcC1icmFzaWwudmFsaWRjZXJ0aWZpY2Fkb3JhLmNvbS5ici9h&#xd;Yy12YWxpZHJmYi9hYy12YWxpZHJmYnY1LnA3YjAzBggrBgEFBQcwAYYnaHR0cDovL29jc3B2NS52&#xd;YWxpZGNlcnRpZmljYWRvcmEuY29tLmJyMAkGA1UdEwQCMAAwHwYDVR0jBBgwFoAUU8ul5HVQmUAs&#xd;vlsVRcm+yzCqicUwcAYDVR0gBGkwZzBlBgZgTAECASUwWzBZBggrBgEFBQcCARZNaHR0cDovL2lj&#xd;cC1icmFzaWwudmFsaWRjZXJ0aWZpY2Fkb3JhLmNvbS5ici9hYy12YWxpZHJmYi9kcGMtYWMtdmFs&#xd;aWRyZmJ2NS5wZGYwgbYGA1UdHwSBrjCBqzBToFGgT4ZNaHR0cDovL2ljcC1icmFzaWwudmFsaWRj&#xd;ZXJ0aWZpY2Fkb3JhLmNvbS5ici9hYy12YWxpZHJmYi9sY3ItYWMtdmFsaWRyZmJ2NS5jcmwwVKBS&#xd;oFCGTmh0dHA6Ly9pY3AtYnJhc2lsMi52YWxpZGNlcnRpZmljYWRvcmEuY29tLmJyL2FjLXZhbGlk&#xd;cmZiL2xjci1hYy12YWxpZHJmYnY1LmNybDAOBgNVHQ8BAf8EBAMCBeAwHQYDVR0lBBYwFAYIKwYB&#xd;BQUHAwIGCCsGAQUFBwMEMIG2BgNVHREEga4wgauBGGZpbmFuY2Vpcm9AYmVsYWlyLmluZC5icqA4&#xd;BgVgTAEDBKAvBC0yMTAzMTk2MDI1NDIyMTYyMDcyMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDCg&#xd;IQYFYEwBAwKgGAQWUEFVTE8gRVVaRUJJTyBEQSBTSUxWQaAZBgVgTAEDA6AQBA4wMjI3NjY5NTAw&#xd;MDE2NKAXBgVgTAEDB6AOBAwwMDAwMDAwMDAwMDAwDQYJKoZIhvcNAQELBQADggIBAAqaE8jlUcBj&#xd;4lwoDh/ssY2Lt6Tn4r42QLWGVswbbj6kRHzWv0I1WOAbX7M/g9jf3dghFCUhe0Uzoei/QhXdDK0v&#xd;xy/DjxPBB9VFQvHnqhrwu2dUGSBoa5kaRV73X/UaQPgSnPngUFojB914or7RS5vQ/rLEGLnKnrcN&#xd;1C1MtuOhwHS+lqLer3Hl7Zm0GgxsYqg0pUtB3rI0Z2h927tkw/Zsl9M0d77GrYLM8l8CU352nLNS&#xd;EkkLLLZ3guGUk2cDowb7sazcVnmrfxW8oNQwWMI+5h83Osg1Ed3UuLO2sdtKwiIojv4ANkAY5AVr&#xd;gdJYDtfVDnvk1WhbOzWzqL6j3GZ+DAlahG6dtmbYf3Op8HB0RD4u8Z9txJE/YiyfbIKWlPBjHTQo&#xd;wKvdPvBQoN6lp2xrvKVDPvCAC2BYI0Z2hfs57BkUzRCzeLkMrQXYub/LQGZjSpbc8XN7s1CwscEF&#xd;EP+xSLhLyjYKvWFV2XfgHRbPNeLxpMZBeu6uyX0lsqEc9F6WqN4HRfTn6BwmCOQZVU0kpN8gxSoX&#xd;/aBXpQ2AojRS2Kl/+ZX/IxyNUhgOZTiVM/XoSi0vucfMWch0wvUCEOI3Lku0kAR4xNIrWvYFB0zh&#xd;9wbGc3nNWyD5yjQ284wlyDz1fxPBW36zgmMjtCaWk+rzKR0lNP316NgjW1HaXEUv</X509Certificate>
+                </X509Data>
+            </KeyInfo>
+        </Signature>
+    </NFe>
+    <protNFe versao="4.00" xmlns="http://www.portalfiscal.inf.br/nfe">
+        <infProt>
+            <tpAmb>1</tpAmb>
+            <verAplic>RS202310161516</verAplic>
+            <chNFe>43231002276695000164550010001905751020184266</chNFe>
+            <dhRecbto>2023-10-19T15:55:04-03:00</dhRecbto>
+            <nProt>143230240276284</nProt>
+            <digVal>hid0akkWXHWgUILxOrkQBhLZtQk=</digVal>
+            <cStat>100</cStat>
+            <xMotivo>Autorizado o uso da NF-e</xMotivo>
+        </infProt>
+    </protNFe>
+</nfeProc>
